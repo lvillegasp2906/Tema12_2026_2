@@ -13,7 +13,6 @@ def multiplicar(a, b):
     return a * b
 
 
-
 if __name__ == "__main__":
     # Un pequeño ejemplo de uso
     resultado = sumar(5, 3)
